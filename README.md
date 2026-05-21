@@ -63,16 +63,6 @@ Questo permette uno sfondo esteso e un movimento continuo della telecamera verso
 - `config.py` contiene le costanti del progetto.
 - `assets/` contiene le immagini di sfondo.
 
-## Funzioni principali implementate
-
-- Menu di selezione coppia protagonista / nemico
-- Coppia selezionabile con frecce sinistra/destra o su/giù
-- Game loop con stati: MENU, GIOCANDO, PUBBLICITA, FINE_GIOCO, IN_PAUSA
-- Telecamera laterale che segue il protagonista
-- Sfondo esteso con primo frame fisso e loop infinito delle immagini successive
-- Ostacoli ambientali e collisione con il protagonista
-- Pubblicità temporanea durante il gioco
-
 ## Configurazione
 
 Modifica `config.py` per cambiare:
