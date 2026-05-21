@@ -9,7 +9,11 @@ BREAKING POINT/
 ├── assets/
 │   ├── background.png      # Prima immagine di sfondo
 │   ├── background2.png     # Seconda immagine di sfondo in sequenza
-│   └── background3.png     # Terza immagine di sfondo in sequenza
+│   |── background3.png     # Terza immagine di sfondo in sequenza
+|   └── oggetti/
+|        ├── cavo.png
+|        ├── microfono.png
+|        ├── riflettore.png
 ├── index.py                # Gioco completo
 ├── config.py               # Costanti e configurazione globale
 └── README.md               # Documentazione
