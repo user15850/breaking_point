@@ -74,15 +74,9 @@ Modifica `config.py` per cambiare:
 - `MODALITA_DEBUG`
 - `MOSTRA_FPS`
 
-## Formato immagine consigliato
-
-Usa `PNG` per le immagini di sfondo e per eventuali sprite con trasparenza.
-
 ## Note Tecniche
 
 - Il gioco gestisce la telecamera e lo sfondo in base alla posizione del protagonista
 - La prima immagine di sfondo viene usata come inizio fisso
 - Le immagini successive scorrono in loop infinito
-- Facile estendere con nuove coppie, ostacoli e assets
-
 ---
